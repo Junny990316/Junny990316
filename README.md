@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Jun's%20Hub)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Hello&desc=I'm%20Jueun&fontColor=ffffff)
+
+
 
