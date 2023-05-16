@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Hello&desc=I'm%20Jueun&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Jueun's%20GitHub&fontColor=ffffff)
+
+<div align='center'>
+  Technology Stack
+</div>
+<img src="https://img.shields.io/badge/#61DAFB?style=flat-square&logo=react&logoColor=white"/>
+![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junny990316&show_icons=true)
 
 
 
