@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <br>
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junny990316&layout=compact" "https://github.com/anuraghazra/github-readme-stats ">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junny990316&layout=compact""(https://github.com/Junny990316/github-readme-stats">
 </div>
 
 
