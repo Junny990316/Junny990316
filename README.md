@@ -46,7 +46,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/notion-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" height="25">
   <br>
 </div>
+<br>
 
+<div align='center'>
+<img src= "https://github-readme-stats.vercel.app/api?username=Junny990316&show_icons=true">
+</div>
+  
 <br>
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junny990316&layout=compact""(https://github.com/Junny990316/github-readme-stats">
